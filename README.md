@@ -48,8 +48,3 @@ Everything is built using **plain HTML only**.
 
 This project is meant for learning and practice purposes.
 Styling and interactivity can be added later once the HTML foundation is solid.
-
----
-
-
-But this README as-is is **perfectly fine to commit** ✅
